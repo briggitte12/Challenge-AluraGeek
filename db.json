@@ -1,0 +1,94 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Laptop HP",
+      "precio": 799.99,
+      "imagen": "https://m.media-amazon.com/images/I/31Ts5Pw339L._AC_.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Smartphone Samsung",
+      "precio": 5099.99,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_914757-MLU78972048266_092024-O.webp"
+    },
+    {
+      "id": "3",
+      "nombre": "Auriculares Bose",
+      "precio": 199.99,
+      "imagen": "https://pe.tiendasishop.com/cdn/shop/files/884367-0100_1.webp?v=1723055875&width=823"
+    },
+    {
+      "id": "4",
+      "nombre": "Smartwatch Apple",
+      "precio": 349.99,
+      "imagen": "https://www.apple.com/la/apple-watch-se/images/overview/hero/hero__f76n0zejlxqq_large.jpg"
+    },
+    {
+      "id": "5",
+      "nombre": "Tablet Samsung",
+      "precio": 399.99,
+      "imagen": "https://images.samsung.com/is/image/samsung/assets/pe/tablets/s-10/buy/SizeKV_PC_1600x8641.jpg?imbypass=true"
+    },
+    {
+      "id": "6",
+      "nombre": "Cámara Canon EOS",
+      "precio": 1200,
+      "imagen": "https://lenz.pe/cdn/shop/files/C7102A_RG_cd9e1260-57a1-49c4-a657-b0b38fd71a1f.png?v=1735313164&width=800"
+    },
+    {
+      "id": "7",
+      "nombre": "Altavoces JBL",
+      "precio": 149.99,
+      "imagen": "https://www.jbl.com.pe/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw0e032d7c/JBL_PARTYBOX_ENCORE_ESSENTIAL_HERO_1605x1605px.png?sw=537&sfrm=png"
+    },
+    {
+      "id": "8",
+      "nombre": "Micrófono Blue Yeti",
+      "precio": 129.99,
+      "imagen": "https://oechsle.vteximg.com.br/arquivos/ids/15314499-998-998/image-47861d3c4c0d42cebf491bc579bb69de.jpg?v=638281869739870000"
+    },
+    {
+      "id": "9",
+      "nombre": "Monitor Dell 24",
+      "precio": 299.99,
+      "imagen": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/3278/PMP20000439794/full_image-1.jpeg"
+    },
+    {
+      "id": "10",
+      "nombre": "Teclado Logitech",
+      "precio": 79.99,
+      "imagen": "https://rymportatiles.com.pe/cdn/shop/files/TECLADOLOGITECH_MOUSEMK120.png?v=1716229122&width=1500"
+    },
+    {
+      "id": "11",
+      "nombre": "Mouse Razer",
+      "precio": 59.99,
+      "imagen": "https://cyccomputer.pe/49864-medium_default/mouse-razer-cobra-chroma-rgb-lightweight-8500-dpi-black-pnrz01-04650100-r3m1.jpg"
+    },
+    {
+      "id": "12",
+      "nombre": "DD Externo Seagate",
+      "precio": 89.9,
+      "imagen": "https://www.kabifperu.com/imagenes/prod-04032021111529-hdexterno-seagate-1tb-1teap2-570-expansion-deta.jpg"
+    },
+    {
+      "id": "13",
+      "nombre": "Cargador Inalámbrico",
+      "precio": 85,
+      "imagen": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/692/PMP00001707858/full_image-1.jpeg"
+    },
+    {
+      "id": "14",
+      "nombre": "Base de Carga",
+      "precio": 79.9,
+      "imagen": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4213/PMP20000132017/full_image-1.jpeg"
+    },
+    {
+      "id": "15",
+      "nombre": "Gafas VR Oculus",
+      "precio": 2500,
+      "imagen": "https://www.necdigitalstore.com/files/images/productos/1694712760-oculus-meta-quest-2-resident-evil-4-gafas-realidad-virtual-128-gb-0.webp"
+    }
+  ]
+}

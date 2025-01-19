@@ -1,0 +1,14 @@
+{
+  "name": "alura-geek",
+  "version": "1.0.0",
+  "description": "Una aplicación que lleva mis habilidades al siguiente nivel.",
+  "main": "alurageek_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Briggitte",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
